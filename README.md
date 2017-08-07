@@ -17,6 +17,7 @@
 	- [ES6 Classes](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)
 	- [ES8 Async Await](https://ponyfoo.com/articles/understanding-javascript-async-await)
 	- [ESNext Pipeline Operator](https://github.com/tc39/proposal-pipeline-operator)
+	- [Stage-0 Pattern Matching](https://github.com/tc39/proposal-pattern-matching)
 - [ECMAScript 5/6/7 compatibility tables](http://kangax.github.io/compat-table/es6/) - ES feature support in different platforms
 - [Babel](http://babeljs.io/) - Babel compiles new language features to old syntax, allowing you to use ES6+ on any platform
 
