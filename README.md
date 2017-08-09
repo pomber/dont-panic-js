@@ -9,7 +9,7 @@
 - [The JavaScript Standard](https://ponyfoo.com/articles/standard) - A brief history of JS, ECMAScript and how the rolling standard works
 - [The TC39 Process](https://tc39.github.io/process-document/) - The process for making changes to the specification
 - [TC39 Proposals](https://github.com/tc39/proposals) - ECMAScript proposals
-- [ES6](http://es6-features.org), [ES7](https://jsfeatures.in/ES7) and [ES8](http://2ality.com/2016/02/ecmascript-2017.html) features. My favorites:
+- [ES6](http://es6-features.org), [ES7](https://jsfeatures.in/ES7) and [ES8](http://2ality.com/2016/02/ecmascript-2017.html) features. Some:
    - [ES6 Arrow Functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 	- [ES6 Destructuring Assignment](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 	- [ES6 Promises](https://developers.google.com/web/fundamentals/getting-started/primers/promises)
